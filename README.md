@@ -1,5 +1,8 @@
 # Squirrel 2.0
 
+[Click Here for the Presentation](https://github.com/rherling/Squirrel2/edit/main/squirrel2.pdf)
+
+
 ## Learning, Help, and Information
 
 ![ADDitude logo](images/additudemag-logo-red.svg) <br/>
