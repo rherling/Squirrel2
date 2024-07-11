@@ -1,4 +1,4 @@
-# Squirrel2
+# Squirrel 2.0
 
 ## Learning, Help, and Information
 
