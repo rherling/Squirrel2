@@ -1,6 +1,7 @@
 # Squirrel 2.0
 
-[Click Here for the Presentation](https://github.com/rherling/Squirrel2/edit/main/squirrel2.pdf)
+![Squirrel 2.0](images/squirrel2-title-slide-25pct.jpg)<br/>
+[Click Here for the Presentation](https://github.com/rherling/Squirrel2/edit/main/squirrel2.pdf)<br/>
 
 
 ## Learning, Help, and Information
