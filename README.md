@@ -5,6 +5,8 @@
 
 ## Learning, Help, and Information
 
+[![Driven Logo](images/driven.jpg)](https://www.amazon.com/Driven-Distraction-Revised-Recognizing-Attention/dp/0307743152/ref=sr_1_20?crid=22IYZMD6D4ZK7&dib=eyJ2IjoiMSJ9.CvdhCCRMYMcnBd9jKRSLDRmm5vLMnoPwuUfjg_FGyB8M0MCZjVLvsuqfRjRGRGC0Gv5Cwm30vywdq71JxczDIEvGr2o5XDnrZJBcIHVZLNt1Dih4-85sNrXzx_ki_tpE3HK7AhIB4tmqdiMb2HJdBpE4cKpTX_laIviwAxS1oeo.ZFg5J8NQXCaFR1xTKfu0V94f_sF859uDp1JDm191bpQ&dib_tag=se&keywords=driven+to+distraction&qid=1720791980&sprefix=driven+to+%2Caps%2C143&sr=8-20)
+
 ![ADDitude logo](images/additudemag-logo-red.svg) <br/>
 [https://www.additudemag.com/](additudemag-logo-red.svg)
 
