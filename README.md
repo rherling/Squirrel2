@@ -13,6 +13,8 @@
 ### Books
 [![Driven Logo](images/driven.jpg)](https://www.amazon.com/Driven-Distraction-Revised-Recognizing-Attention/dp/0307743152/ref=sr_1_20?crid=22IYZMD6D4ZK7&dib=eyJ2IjoiMSJ9.CvdhCCRMYMcnBd9jKRSLDRmm5vLMnoPwuUfjg_FGyB8M0MCZjVLvsuqfRjRGRGC0Gv5Cwm30vywdq71JxczDIEvGr2o5XDnrZJBcIHVZLNt1Dih4-85sNrXzx_ki_tpE3HK7AhIB4tmqdiMb2HJdBpE4cKpTX_laIviwAxS1oeo.ZFg5J8NQXCaFR1xTKfu0V94f_sF859uDp1JDm191bpQ&dib_tag=se&keywords=driven+to+distraction&qid=1720791980&sprefix=driven+to+%2Caps%2C143&sr=8-20)
 
+[![ADHD2.0](images/adhd2.jpg)](https://www.amazon.com/ADHD-2-0-Essential-Strategies-Distraction/dp/0399178740/ref=pd_bxgy_d_sccl_1/146-7583695-5148657?pd_rd_w=cp0Uz&content-id=amzn1.sym.c51e3ad7-b551-4b1a-b43c-3cf69addb649&pf_rd_p=c51e3ad7-b551-4b1a-b43c-3cf69addb649&pf_rd_r=3ATBTVYF2W7ZQ180Q6FQ&pd_rd_wg=QLrdw&pd_rd_r=92e3ce45-b689-4a76-b9bf-07ded351a22a&pd_rd_i=0399178740&psc=1)
+
 [![crazy](images/crazy.jpg)](https://www.amazon.com/You-Mean-Lazy-Stupid-Crazy/dp/0743264487/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.n9txVfrzMOsqzTb9tnR1EUSTWAJQ6SEYfaG8PJ0ANsDSpOwC1mjnAuavbDxZ2nm4CD_ajE4o5xL0gmMkFMbbO8xZZFDu5yji9JKDySBRPn3soZsrM8rSV3_TDCeMFUx5GogJkexi9FL0pktjEHtZFgI3OZxoZcOIjKLyr9AmW6jwZ8Ooy7VDcMdONYFu4a52LD49dXUVlo7SrClSpycG38FZvKmE9RBymfsQvvZ5pvo.AIFMGMevjrxO4RaBC0jtFxo0hLolyHt3ASgT021WlxY&qid=1720793368&sr=8-1)
 
 ### Links
