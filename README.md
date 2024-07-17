@@ -5,7 +5,7 @@
 [Click Here for the Presentation](https://github.com/rherling/Squirrel2/edit/main/squirrel2.pdf)<br/>
 [Click Here for Google Docs Shared Notes](https://docs.google.com/document/d/1JdlKyDdkplepB2NZEracrm-gusW0I_rPAd161_o1oEQ/edit)
 
-## Video (Availiable Soon)
+## Video (Available Soon)
 
 
 ## Learning, Help, and Information
