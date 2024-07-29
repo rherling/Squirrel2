@@ -2,12 +2,11 @@
 
 ## Presentation
 ![macadminsLogo](images/2024MacAdminsLogo.png)<br/>
-[Click Here for the Presentation](https://github.com/rherling/Squirrel2/edit/main/squirrel2.pdf)<br/>
+[Click Here for the Presentation PDF](https://github.com/rherling/Squirrel2/edit/main/squirrel2.pdf)<br/>
+[Click Here for Video of the Presentation](https://www.youtube.com/watch?v=C0jDRYhELtY)<br/>
 [Click Here for Google Docs Shared Notes](https://docs.google.com/document/d/1JdlKyDdkplepB2NZEracrm-gusW0I_rPAd161_o1oEQ/edit)
 
-## Videos
 
-[Video of the Presentation](https://www.youtube.com/watch?v=C0jDRYhELtY)
 
 ## Learning, Help, and Information
 
